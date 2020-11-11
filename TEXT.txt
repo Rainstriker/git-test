@@ -1,3 +1,4 @@
 test restore
 
 test edit for slide 56 git merge
+test merge from newBranch
