@@ -6,8 +6,10 @@ List test
 3. item3
 this is **bold**
 This is *italic*
-Line break test.
-First line.  Second line. 
+Line break test. 
+First line.
+<hr>
+Secondline
 >#### Blockquotes
 > test
 > test 
